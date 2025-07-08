@@ -1,4 +1,4 @@
-# sb1-g3vtkffe
+# Covid-19 Risk Predictor
 
 This project was created and pushed to GitHub using [Bolt to GitHub](https://github.com/mamertofabian/bolt-to-github) Chrome Extension.
 
