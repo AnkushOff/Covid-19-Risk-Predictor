@@ -1,14 +1,16 @@
 # Covid-19 Risk Predictor
 
-This project was created and pushed to GitHub using [Bolt to GitHub](https://github.com/mamertofabian/bolt-to-github) Chrome Extension.
-
 ## Description
 
-[Add your project description here]
+Features
+Advanced Risk Assessment: Multi-parameter analysis including demographics, vital signs, comorbidities, and symptoms
+Real-time Calculations: Instant risk scoring with confidence intervals and detailed explanations
+Clinical-Grade Interface: Professional medical form design with comprehensive data collection
+Interactive Results: Visual risk level indicators with color-coded severity levels
+Detailed Analytics: Contributing risk factors analysis and personalized clinical recommendations
+Responsive Design: Optimized for desktop and mobile healthcare environments
 
 ## Installation
-
-[Add installation instructions here]
 
 ## Usage
 
