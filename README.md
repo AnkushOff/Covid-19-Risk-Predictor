@@ -9,16 +9,9 @@ This project is a simple machine learning web application that predicts the risk
 - Pandas, NumPy
 - Joblib (for model serialization)
 
-## Installation
+## 🚀 How to Run Locally
 
-## Usage
-
-[Add usage instructions here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## License
-
-[Add license information here]
+git clone https://github.com/AnkushOff/Covid-19-Risk-Predictor.git
+cd Covid-19-Risk-Predictor
+pip install -r requirements.txt
+streamlit run app/app.py
