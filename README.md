@@ -1,14 +1,13 @@
 # Covid-19 Risk Predictor
 
-## Description
+This project is a simple machine learning web application that predicts the risk of Covid-19 infection based on symptoms.
 
-Features
-Advanced Risk Assessment: Multi-parameter analysis including demographics, vital signs, comorbidities, and symptoms
-Real-time Calculations: Instant risk scoring with confidence intervals and detailed explanations
-Clinical-Grade Interface: Professional medical form design with comprehensive data collection
-Interactive Results: Visual risk level indicators with color-coded severity levels
-Detailed Analytics: Contributing risk factors analysis and personalized clinical recommendations
-Responsive Design: Optimized for desktop and mobile healthcare environments
+## 🔧 Technologies Used
+- Python
+- Scikit-learn (Random Forest)
+- Streamlit (for frontend)
+- Pandas, NumPy
+- Joblib (for model serialization)
 
 ## Installation
 
