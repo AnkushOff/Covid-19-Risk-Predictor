@@ -14,8 +14,11 @@ This project is a simple machine learning web application that predicts the risk
 ```bash
 git clone https://github.com/AnkushOff/Covid-19-Risk-Predictor.git
 ```
+```bash
 cd Covid-19-Risk-Predictor
 ```
+```bash
 pip install -r requirements.txt
 ```
+```bash
 streamlit run app/app.py
