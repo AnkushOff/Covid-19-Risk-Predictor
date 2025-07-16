@@ -11,7 +11,11 @@ This project is a simple machine learning web application that predicts the risk
 
 ## 🚀 How to Run Locally
 
-- git clone https://github.com/AnkushOff/Covid-19-Risk-Predictor.git
-- cd Covid-19-Risk-Predictor
-- pip install -r requirements.txt
-- streamlit run app/app.py
+```bash
+git clone https://github.com/AnkushOff/Covid-19-Risk-Predictor.git
+```bash
+cd Covid-19-Risk-Predictor
+```bash
+pip install -r requirements.txt
+```bash
+streamlit run app/app.py
